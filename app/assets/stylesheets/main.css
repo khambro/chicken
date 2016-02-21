@@ -1,0 +1,14 @@
+body {
+  background-color: magenta;
+  color: black;
+  font-family: fantasy;
+  font-size: 28px;
+}
+
+
+
+.quote {
+  display: inline-block;
+  /*margin: 0 auto;*/
+  margin: 300px 300px 300px 300px;
+}
